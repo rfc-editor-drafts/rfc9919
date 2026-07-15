@@ -2,7 +2,7 @@
 
 
 
-Internet Engineering Task Force (IETF)                伊藤 忠彦 (T. Ito)
+Internet Engineering Task Force (IETF)                            T. Ito
 Request for Comments: 9919                               SECOM CO., LTD.
 Obsoletes: 5019                                                C. Wilson
 Category: Standards Track                                    Apple, Inc.
